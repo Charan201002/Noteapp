@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\bin\Debug\Note-taking App.exe.config
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\bin\Debug\Note-taking App.exe
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\bin\Debug\Note-taking App.pdb
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\obj\Debug\NoteTakingApp.NoteForm.resources
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.csproj.CopyComplete
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.exe
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.pdb
+C:\Users\DELL\Desktop\Note-taking-App-master\Note-taking App\obj\Debug\NoteTakingApp.Form1.resources
